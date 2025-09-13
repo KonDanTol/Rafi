@@ -1,5 +1,5 @@
-<h1 align="center">Nihao, minna! im Rafi</h1>
-<h3 align="center">A newcomers who still learning programming language!</h3>
+<h1 align="center">Nihao, minnasan! Letme introduce myself!</h1>
+<h3 align="center">Hi, im Rafi a newcomers who still learning programming language!</h3>
 
 - 🌱 I’m currently learning **C++, Python**
 
